@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Efcore.tarde", "Senai.Efcore.tarde.csproj", "{73B7DFF4-B263-4402-9294-9B53413D76BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B7DFF4-B263-4402-9294-9B53413D76BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B7DFF4-B263-4402-9294-9B53413D76BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B7DFF4-B263-4402-9294-9B53413D76BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B7DFF4-B263-4402-9294-9B53413D76BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA40EAF0-5F3A-4B23-A9AE-710E06FCC4F5}
+	EndGlobalSection
+EndGlobal
